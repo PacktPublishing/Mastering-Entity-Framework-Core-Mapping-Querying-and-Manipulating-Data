@@ -1,2 +1,2 @@
-# Hands-on-Kubernetes-on-AWS
-Code repository for Hands-on Kubernetes on AWS, published by Packt
+# Mastering Entity Framework Core Mapping Querying And Manipulating Data
+Code repository for Mastering Entity Framework Core Mapping Querying And Manipulating Data, published by Packt
